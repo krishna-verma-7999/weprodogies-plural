@@ -1,3 +1,8 @@
+# Challenges :-
+
+1. understand middleware file functionality
+2. understand database flow
+
 # Initialization:-
 
 1. create account in upload thing and copy and paste env variables.
@@ -16,3 +21,8 @@
 # Landing Page
 
 1. https://bg.ibelick.com/ => this is the website where you can find modern bg snippets.
+
+# prisma
+
+- bun add @prisma/client
+- bunx prisma init --datasource-provider mysql

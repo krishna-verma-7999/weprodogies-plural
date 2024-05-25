@@ -2,6 +2,7 @@
 
 1. understand middleware file functionality
 2. understand database flow
+3. stripe redirection on agency page.
 
 # Initialization:-
 
@@ -26,3 +27,8 @@
 
 - bun add @prisma/client
 - bunx prisma init --datasource-provider mysql
+
+# Form Fields
+
+- bun add @tremor/react => component library
+- installing uuid library for unique id.

@@ -108,6 +108,15 @@ B (255 */
   animation: automation-zoom-in 0.5s;
 }
 
+.scrollbar-width::-webkit-scrollbar {
+  width: 8px;
+  /* background-color: hsl(var(--accent)); */
+}
+
+/* .scrollbar-width::-webkit-scrollbar-thumb {
+  background-color: hsl(var(--background));
+} */
+
 @keyframes automation-zoom-in {
   0% {
     opacity: 0;
